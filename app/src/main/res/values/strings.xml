@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string name="engine">ENGINE</string>
+    <string name="start">START</string>
+    <string name="time_count">Time Count :</string>
+    <string name="current_burned_gas">Current Burned Gas</string>
+    <string name="_0">0</string>
+    <string name="km_count">KM Count</string>
+    <string name="speed">Speed :</string>
+    <string name="remaining_gasoline">REMAINING GASOLINE</string>
+    <string name="__0">0</string>
+    <string name="gas">+GAS</string>
+</resources>
